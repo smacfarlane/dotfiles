@@ -11,3 +11,5 @@ set noerrorbells
 
 syntax on
 colorscheme jack
+
+set nocompatible
