@@ -1,0 +1,38 @@
+URxvt.scrollBar: false
+URxvt.font: xft:inconsolata:size=12
+URxvt.loginShell: true
+URxvt.foreground: White
+URxvt.depth: 32
+URxvt.background: [90]Black
+URxvt*termName: xterm
+
+URxvt.perl-ext-common:  default,tabbed
+!COLOURS JACK
+!!! Fore- / Background
+URxvt*background:	#1a1a1a
+URxvt*foreground:	#b2b2b2
+!black
+URxvt*color0 : #1a1a1a
+URxvt*color8 : #4c4c4c
+!red
+URxvt*color1 : #b23535
+URxvt*color9 : #ff4b4b
+!green
+URxvt*color2 : #60801f
+URxvt*color10: #9bcd32
+!yellow
+URxvt*color3 : #be6e00
+URxvt*color11: #d79b1e
+!blue
+URxvt*color4 : #1f6080
+URxvt*color12: #329bcd
+!magenta
+URxvt*color5 : #8f46b2
+URxvt*color13: #cd64ff
+!cyan
+URxvt*color6 : #73afb4
+URxvt*color14: #9bcdff
+!white
+URxvt*color7 : #b2b2b2
+URxvt*color15: #FFFFFF
+
